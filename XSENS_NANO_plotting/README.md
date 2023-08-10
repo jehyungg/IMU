@@ -1,4 +1,4 @@
-#XSENS_NANO_plotting
+# XSENS_NANO_plotting
 Attach XSENS DOT and Arduino NANO 33 IoT to compare two datas from different quality of IMU sensor.
 
 ## Method 
@@ -10,7 +10,7 @@ Attach XSENS DOT and Arduino NANO 33 IoT to compare two datas from different qua
 6. Calculate the difference between two data by using RMS method.
 7. Modify the parameter of the filter and repeat the procedure until it reduces the error.
 
-##Plot
+## Plot
 ![image](https://github.com/jehyunglee612/IMU/assets/96870521/cbce0a5d-50e3-4bee-9c54-013263cf29e8)
 
 

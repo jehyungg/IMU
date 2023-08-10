@@ -13,6 +13,7 @@ Attach XSENS DOT and Arduino NANO 33 IoT to compare two datas from different qua
 
 ## Hardware
 1. XSENS DOT
+   
   ![image](https://github.com/jehyunglee612/IMU/assets/96870521/7a990a51-0e02-4a4c-b51b-60df23102ba5)
-2. Arduino NANO 33 IoT 
+3. Arduino NANO 33 IoT 
   ![image](https://github.com/jehyunglee612/IMU/assets/96870521/8ebe1d75-9c62-4cc3-9654-4ffd7d68f462)

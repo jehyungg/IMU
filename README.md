@@ -10,4 +10,4 @@ Apply a filter implemented un python to calibrate IMU data.
 Used filters: Complementary Filter, Madgwick Filter, Kalman Filter
 
 ## XSENS_NANO_plotting
-Attatch XSENS DOT and Arduino NANO 33 IoT to compare twoArduino NANO 33 IoT datas from different quality of IMU sensor.
+Attatch XSENS DOT and Arduino NANO 33 IoT to compare two Arduino NANO 33 IoT datas from different quality of IMU sensor.

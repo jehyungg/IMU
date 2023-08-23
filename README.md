@@ -13,19 +13,19 @@ Used filters: Complementary Filter, Madgwick Filter, Kalman Filter
 Attatch XSENS DOT and Arduino NANO 33 IoT to compare two Arduino NANO 33 IoT datas from different quality of IMU sensor.
 
 ## Data Description
-Data 1: 
+- Data 1: 
     - arduino_file: serial_data_230720_1.csv
     - xsens_raw_file: 15_20230720_151055_577.csv
 
-Data 2:
+- Data 2:
     - arduino_file: serial_data_230720_2.csv
     - xsens_raw_file: 15_20230720_161025_154.csv
 
-Data 3:
+- Data 3:
     - arduino_file: serial_data_230721_1.csv
     - xsens_raw_file: 15_20230721_134758_096.csv
 
-Data 3:
+- Data 3:
     - arduino_file: serial_data_230721_2.csv
     - xsens_raw_file: 15_20230721_152126_091.csv
 
